@@ -1,0 +1,14 @@
+{
+    "name": "rdstudio/aws-bref-custome-runtime",
+    "autoload": {
+    },
+    "authors": [
+        {
+            "name": "Roberto D",
+            "email": "roberto.dopazo15@gmail.com"
+        }
+    ],
+    "require": {
+        "bref/bref": "^2.1"
+    }
+}
